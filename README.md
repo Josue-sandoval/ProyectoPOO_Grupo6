@@ -10,9 +10,9 @@ Aquí se gestiona el desarrollo del proyecto asignado, incluyendo la colaboraci�
 ---
 
 # 👥 Integrantes del Equipo  
--JOSUE ALEJANDRO SANDOVAL GALINDO   #DE CUENTA: 201630010142
-- JOSE RAMON HERNANDEZ DUBON        #DE CUENTA: 201630010142
-- CARLOS MANUEL VIDES MARTINEZ    #DE CUENTA: 201630010142
+ -JOSUE ALEJANDRO SANDOVAL GALINDO   #DE CUENTA: 201630010142
+- JOSE RAMON HERNANDEZ DUBON        #DE CUENTA: 
+- CARLOS MANUEL VIDES MARTINEZ    #DE CUENTA: 
 
 ---
 
@@ -21,6 +21,7 @@ Aquí se gestiona el desarrollo del proyecto asignado, incluyendo la colaboraci�
 ├── docs/ # Documentación (diagramas, informes)
 ├── .gitignore # Archivos excluidos del versionamiento
 └── README.md # Este archivo
+
 ---
 
 ## ⚙️ Requisitos y Configuración  
