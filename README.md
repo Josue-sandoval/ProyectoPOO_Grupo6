@@ -18,8 +18,11 @@ Aquí se gestiona el desarrollo del proyecto asignado, incluyendo la colaboraci�
 
 # 🚀 Estructura del Repositorio  
 ├── src/ # Código fuente del proyecto
+
 ├── docs/ # Documentación (diagramas, informes)
+
 ├── .gitignore # Archivos excluidos del versionamiento
+
 └── README.md # Este archivo
 
 ---
