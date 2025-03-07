@@ -28,17 +28,16 @@ Aquí se gestiona el desarrollo del proyecto asignado, incluyendo la colaboraci�
 ---
 
 ## ⚙️ Requisitos y Configuración  
-- **Lenguaje**: Java (versión X.X.X).  
-- **Entorno de Desarrollo**: NetBeans/Eclipse/IntelliJ.  
-- **Dependencias**: Ninguna (o listar si aplica).  
+- **Lenguaje**: Java  
+- **Entorno de Desarrollo**: NetBeans  
 
 ---
 
 ## 📬 Contribuciones  
 Este proyecto sigue las directrices del curso para colaboraciones:  
-1. **Ramas Protegidas**: No se permiten cambios directos en `main` o `development`.  
+1. **Ramas Protegidas**: No se permiten cambios directos en `main`.  
 2. **Pull Requests**: Todo cambio debe pasar por revisión antes de fusionarse.  
-3. **Commits Descriptivos**: Mensajes claros en español (ej: "feat: Agrega clase Persona").  
+3. **Commits Descriptivos**: Mensajes claros.  
 
 ---
 
